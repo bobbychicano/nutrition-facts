@@ -1,0 +1,27 @@
+.outline {
+  border: 2px solid black;
+}
+
+.thickums-border {
+  border-bottom: 15px solid black;
+}
+
+.personal-space {
+  line-height: normal;
+}
+
+.size-2 {
+  font-size: 0.9rem;
+}
+
+.skinny-border {
+  border-bottom: 1px solid black;
+}
+
+.thicky-border {
+  border-bottom: 8px solid black;
+}
+
+.far-right {
+  text-align: right;
+}
